@@ -6,6 +6,7 @@ header {
 main {
     border:2px solid black;
     background:rgb(232, 165, 165);
+     width:65%;
 }
 
 article {
@@ -14,8 +15,10 @@ article {
 
 aside {
     background:lightgreen;
+    width:35%;
 }
 
 div {
     display:flex;
+    width:100%;
 }
