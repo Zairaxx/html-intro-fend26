@@ -1,0 +1,21 @@
+header {
+    background:lightblue;
+    border: 2px solid black;
+}
+
+main {
+    border:2px solid black;
+    background:rgb(232, 165, 165);
+}
+
+article {
+    border:2px solid white;
+}
+
+aside {
+    background:lightgreen;
+}
+
+div {
+    display:flex;
+}
